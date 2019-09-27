@@ -1,0 +1,2 @@
+behavior_type,name,loose_begin,tight_begin,tight_end,loose_end
+돌진,LeeDaeWoong,3.900(117),4.333(130),5.300(159),5.933(178)

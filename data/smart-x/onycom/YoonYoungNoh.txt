@@ -1,0 +1,2 @@
+behavior_type,name,loose_begin,tight_begin,tight_end,loose_end
+돌진,YoonYoungNoh,8.200(246),8.700(261),9.867(296),10.5(315)

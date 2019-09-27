@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotation>
+    <folder>rush</folder>
+    <filename>YoonYoungNoh.mp4</filename>
+    <source>
+        <database>NIPA2019 Database v1</database>
+        <annotation>NIPA2019</annotation>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth></depth>
+    </size>
+    <header>
+        <duration>00:02.300</duration>
+        <fps>30</fps>
+        <frames>8970</frames>
+        <inout>IN</inout>
+        <location></location>
+        <season></season>
+        <weather></weather>
+        <time></time>
+        <population>1</population>
+        <character>M20</character>
+    </header>
+    <event>
+        <eventname>rush</eventname>
+        <starttime>00:08.200</starttime>
+        <duration>00:02.300</duration>
+    </event>
+    <object>
+        <objectname>person_1</objectname>
+        <position>
+            <keyframe></keyframe>
+            <keypoint>
+                <x></x>
+                <y></y>
+            </keypoint>
+        </position>
+        <action>
+            <actionname>rush</actionname>
+            <frame>
+                <loosestart>246</loosestart>
+                <start>261</start>
+                <end>296</end>
+                <looseend>315</looseend>
+            </frame>
+        </action>
+    </object>
+</annotation>
